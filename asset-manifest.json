@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sami_Excel/static/css/main.4697c2ea.css",
-    "main.js": "/sami_Excel/static/js/main.ca62d09a.js",
+    "main.css": "/sami_Excel/static/css/main.b4b8e61c.css",
+    "main.js": "/sami_Excel/static/js/main.c508f416.js",
     "index.html": "/sami_Excel/index.html",
-    "main.4697c2ea.css.map": "/sami_Excel/static/css/main.4697c2ea.css.map",
-    "main.ca62d09a.js.map": "/sami_Excel/static/js/main.ca62d09a.js.map"
+    "main.b4b8e61c.css.map": "/sami_Excel/static/css/main.b4b8e61c.css.map",
+    "main.c508f416.js.map": "/sami_Excel/static/js/main.c508f416.js.map"
   },
   "entrypoints": [
-    "static/css/main.4697c2ea.css",
-    "static/js/main.ca62d09a.js"
+    "static/css/main.b4b8e61c.css",
+    "static/js/main.c508f416.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sami_Excel/static/css/main.eee2de0e.css",
-    "main.js": "/sami_Excel/static/js/main.190e1adc.js",
+    "main.css": "/sami_Excel/static/css/main.e2a0d568.css",
+    "main.js": "/sami_Excel/static/js/main.ae601d42.js",
     "static/media/NotoKufiArabic-Medium.ttf": "/sami_Excel/static/media/NotoKufiArabic-Medium.a30cf870e0a607d96484.ttf",
     "static/media/NotoKufiArabic-Bold.ttf": "/sami_Excel/static/media/NotoKufiArabic-Bold.45ab48f3b9945b17ea44.ttf",
     "static/media/NotoKufiArabic-Regular.ttf": "/sami_Excel/static/media/NotoKufiArabic-Regular.7211679d98ea185fc5a6.ttf",
     "static/media/logo.png": "/sami_Excel/static/media/logo.287804465cadd8bbc93d.png",
     "index.html": "/sami_Excel/index.html",
-    "main.eee2de0e.css.map": "/sami_Excel/static/css/main.eee2de0e.css.map",
-    "main.190e1adc.js.map": "/sami_Excel/static/js/main.190e1adc.js.map"
+    "main.e2a0d568.css.map": "/sami_Excel/static/css/main.e2a0d568.css.map",
+    "main.ae601d42.js.map": "/sami_Excel/static/js/main.ae601d42.js.map"
   },
   "entrypoints": [
-    "static/css/main.eee2de0e.css",
-    "static/js/main.190e1adc.js"
+    "static/css/main.e2a0d568.css",
+    "static/js/main.ae601d42.js"
   ]
 }
